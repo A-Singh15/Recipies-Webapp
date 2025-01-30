@@ -50,7 +50,7 @@ Click the search new button to get a list of current top stories around the worl
 
 [Ramit S](https://github.com/ramitsingh447)
 
-
+[Banaz S](https://github.com/banazsinjary)
 
 ## Installation
 
